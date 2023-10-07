@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VADA - Luxury Hair Extensions & Wigs</title>
+    <link rel="stylesheet" href="styles/reset.css">
+    <link rel="stylesheet" href="styles/custom-styles.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <header>
+        <h1>VADA</h1>
+        
+        <!-- Navigation and additional header content -->
+    </header>
+    <main>
+        <section id="products">
+            <!-- Showcase high-quality imagery, detailed product descriptions, and customization options -->
+            <div id="try-on">
+                <!-- Virtual Try-On feature content -->
+            </div>
+            <!-- Additional product sections based on your specifications -->
+        </section>
+        <!-- Additional main sections based on your specifications -->
+    </main>
+    <footer>
+        <section id="policies">
+            <!-- Transparent Policies - return, exchange, refund policies, and shipping information -->
+        </section>
+        <section id="social-media">
+            <!-- Social Media Integration to connect with the community -->
+        </section>
+        <section id="working-hours">
+            <p>Monday-Saturday: 8:00am - 19:00pm</p>
+            <p>Msimbazi Kariakoo, Dar es Salaam, Tanzania</p>
+        </section>
+    </footer>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="scripts/custom-scripts.js"></script>
+    <!-- Additional scripts based on your specifications -->
+</body>
+</html>
